@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="espresso">#3E2723</color>
+    <color name="coffee">#6D4C41</color>
+    <color name="caramel">#C67C4E</color>
+    <color name="peach">#F6D5B5</color>
+    <color name="peach_light">#FCEBDD</color>
+    <color name="cream">#FFF8F2</color>
+    <color name="text_secondary">#8D7B73</color>
+    <color name="outline">#E2D3C8</color>
+    <color name="divider">#F0E4DA</color>
+    <color name="green">#2E9E5B</color>
+    <color name="green_soft">#C9F2D6</color>
+    <color name="error">#C62828</color>
+</resources>
